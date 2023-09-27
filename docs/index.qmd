@@ -17,7 +17,6 @@ knitr:
 #| cache: false
 googlesheets4::gs4_deauth()
 cv_url <- "https://docs.google.com/spreadsheets/d/1bba2VZvhMHt_JwibQ8XK9ettFwJMzxyYqhlPra4RNXE/edit?usp=sharing"
-
 cv <- googlesheets4::read_sheet(cv_url)
 ```
 
@@ -37,7 +36,7 @@ cv <- googlesheets4::read_sheet(cv_url)
 
 Bióloga com larga experiência em pesquisa em biologia molecular e bioinformática. Desenvolve atividades de pesquisa laboratorial e tem experiência com diagnóstico molecular e sorológico e sequenciamento de nova geração.
 
-### Languages
+### Idiomas
 
 **Português:** Fluente <br> **Inglês:** Avançado <br>
 
